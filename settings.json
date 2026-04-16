@@ -1,5 +1,5 @@
 {
-  "name": "ZerayaSecondBot",
+  "name": "ZerayaBotV2",
   "bot-account": {
     "username": "ZerayaBot",
     "password": "",
@@ -20,7 +20,7 @@
   "utils": {
     "auto-auth": {
       "enabled": true,
-      "password": "Zeraya3472"
+      "password": "Zeraya3477"
     },
     "anti-afk": {
       "enabled": true,
@@ -75,7 +75,7 @@
   "discord": {
     "enabled": true,
     "webhookUrl":
-    "https://discord.com/api/webhooks/1492788142909034668/pJhLxWmn3y8gy0TrC0x_ed3bzae5emHch7gRC6YOjCu-7QhFInQa4pg23oTIxpeLhCCS",
+    "https://discord.com/api/webhooks/1494229228563071077/7bnKIIsBE_GTVZzSmETMQ_AvanAUBPSJTTtYM5-FRAzmC2qowid-RwaFfJVdPw013leN",
     "events": {
       "connect": true,
       "disconnect": true,
